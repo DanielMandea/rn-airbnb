@@ -1,2 +1,3 @@
-## rn-airbnb
-# React native Airbnb clone
+# React Native Airbnb
+
+## Example React Native Airbnb clone 
